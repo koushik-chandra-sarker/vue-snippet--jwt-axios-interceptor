@@ -1,5 +1,5 @@
 {
-  "name": "blog_with_jwt",
+  "name": "vue-snippet--jwt-axios-interceptor",
   "version": "0.1.0",
   "private": true,
   "scripts": {
